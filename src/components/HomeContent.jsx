@@ -40,19 +40,19 @@ const HomeContent = () => {
           <img src={medal1} alt="m1" className="h-72 w-[236px]" />
         </div>
         <div>
-          <img src={medal2} alt="m1" className="h-72 w-[236px] flex-grow" />
+          <img src={medal2} alt="m2" className="h-72 w-[236px] flex-grow" />
         </div>
         <div>
-          <img src={medal3} alt="m1" className="h-72 w-[236px]" />
+          <img src={medal3} alt="m3" className="h-72 w-[236px]" />
         </div>
         <div>
-          <img src={medal4} alt="m1" className="h-72 w-[236px]" />
+          <img src={medal4} alt="m4" className="h-72 w-[236px]" />
         </div>
         <div>
-          <img src={medal5} alt="m1" className="h-72 w-[236px]" />
+          <img src={medal5} alt="m5" className="h-72 w-[236px]" />
         </div>
         <div>
-          <img src={medal6} alt="m1" className="h-72 w-[236px] " />
+          <img src={medal6} alt="m6" className="h-72 w-[236px] " />
         </div>
       </div>
       </Link>
