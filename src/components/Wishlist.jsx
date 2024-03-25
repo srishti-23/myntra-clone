@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import Navbar from "./Navbar";
 import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
-import { addWishlist, delWishlist } from "../redux/action";
+
 
 function Wishlist() {
   const dispatch = useDispatch();
