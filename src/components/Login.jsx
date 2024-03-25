@@ -7,7 +7,7 @@ const Login = () => {
     <>
       <Navbar />
       <div className="bg-[#FCEFE9] w-full h-screen justify-center items-center">
-        <img src={login} className="w-[400px] h-60 mx-auto "></img>
+        <img src={login} alt="login" className="w-[400px] h-60 mx-auto "></img>
         <div className="bg-white box-border h-80 w-[400px]  p-4 border-0 mx-auto">
           <h3 className="mt-4  items-center text-xl">
             Login <span className="ml-4 text-gray-500 font-medium">or</span>{" "}
