@@ -122,8 +122,9 @@ const Navbar = () => {
           <span classname="w-6 font-thin">
             <small>Profile</small>
           </span>
+          </div>
         </Link>
-        </div>
+        
 
         {/* wishlist */}
 
