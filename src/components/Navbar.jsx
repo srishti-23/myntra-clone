@@ -102,6 +102,7 @@ const Navbar = () => {
       </div>
       {/* icons */}
       <div className="w-[15%] flex flex-row items-center space-x-8 py-6 mr-4 ">
+        <Link to="/login">
         <div className="flex 1 flex flex-col hover:underline">
           {/* profile icon */}
           <svg
@@ -121,6 +122,7 @@ const Navbar = () => {
           <span classname="w-6 font-thin">
             <small>Profile</small>
           </span>
+        </Link>
         </div>
 
         {/* wishlist */}
